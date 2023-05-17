@@ -1,0 +1,49 @@
+/* *{
+    background-color:darkseagreen;
+    background-image: url(Monkey.jpeg);
+    background-repeat: no-repeat;
+    bac
+} */
+.fn{
+    position: relative;
+    left: 500px;
+    background: none;
+}
+.mail{
+    position: relative;
+    left: 539px;
+    background: none;
+}
+.gender{
+    position: relative;
+    left: 515px;
+    background: none;
+}
+.phone{
+    position: relative;
+    left: 473px;
+    background: none;
+}
+.sub{
+    border-radius: 50px;
+}
+.dob{
+    position: relative;
+    left: 438px;
+    background: none;
+}
+.add{
+    position: relative;
+    background: none;
+    left: 515px;
+
+}
+.ad{
+    position: relative;
+    bottom: 75px;;
+}
+.bo{
+    background-image: url(Monkey.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

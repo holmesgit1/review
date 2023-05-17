@@ -1,0 +1,342 @@
+.img{
+    width: 72px;
+    height: 36px;
+    cursor: pointer;
+    text-align: center;
+    position: absolute;
+    top: 13px;
+    left: 40px;
+}
+.img:hover{
+    box-shadow: 50px;
+}
+.opera{
+    width: 37px;
+    height: 37px;
+    position: absolute;
+    top: 13px;
+    left: 148px;
+}
+.d1{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.list{
+    border-radius: 4px;
+    border-width: 1px;
+    text-align: center;
+    font-size: medium;
+    font-family:Ysabeau;
+    position: absolute;
+    top: 6px;
+    left: 875px;
+    width: 122.38px;
+    height: 45.76px;
+    cursor: pointer;
+    background: none;
+    color: rgb(255, 86, 125);
+    border-style: solid;
+    /* border-style: ; */
+    border-color: rgb(255, 86, 125);
+}
+.list:hover{
+    color: white ;
+    background-color: rgb(255, 86, 125);
+}
+.btn-primary{
+    height: 20px;
+    width: 25px;
+    position: absolute;
+    top: 20px;
+    left: 1015px;
+    cursor: pointer;
+    background-image: url(Frame\ 335.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flag{
+    height: 20px;
+    width: 25px;
+    cursor: pointer;
+    /* position: absolute;
+    top: 25px;
+    left: 1040px; */
+}
+.dropdown{
+    height: 20px;
+    width: 25px;
+    cursor: pointer;
+    position: absolute;
+    top: 25px;
+    left: 1040px;
+}
+.dropdown-menu{
+    position: absolute;
+    top: 100px;
+}
+.Rs{
+    position: absolute;
+    top: 9px;
+    left: 533px;
+    font-weight: 400;
+    background: none;
+    border: none;
+}
+.signin{
+    position: absolute;
+    top: 13px;
+    left: 1112px;
+    height: 40px;
+    width: 80px;
+    /* font-weight: 400; */
+    font-size: small;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+    background: none;
+    border: none;
+    /* border-radius: 8px; */
+    color: rgb(96, 96, 232);
+}
+.signin:hover{
+    color: white;
+    background:rgb(96, 96, 232);
+    border-radius: 5px;
+    /* height: 40px; */
+}
+.navbar{
+    position: fixed;
+    background-color: white;
+    position: relative;
+    height: 70px;
+    /* opacity: 50%; */
+}
+/* *{
+    height: fit-content;
+} */
+.crac{
+    color: rgb(96, 96, 232);
+    position: absolute;
+    top: 6px;
+    border: solid;
+    right: 150px ;
+    height: 40px;
+    border-radius: 5px ;
+    border-width: 1px;
+    background: none;
+    font-family:Ysabeau;
+    position: absolute;
+    top: 6px;
+    width: 122.38px;
+    height: 45.76px;
+    cursor: pointer;
+    background: none;
+    border-color: rgb(96, 96, 232);
+}
+.crac:hover{
+    color:  white;
+    background-color: rgb(96, 96, 232);
+}
+.carousel-inner{
+    position: absolute;
+    /* top: -1425px; */
+    background-size: cover;
+    /* size: 50px; */
+    height: 600px;
+    border-bottom-right-radius:80px ;
+    border-bottom-left-radius:80px ;
+    /* border-radius: 100px; */
+}
+.two{
+    position: absolute;
+    left: 0px;
+    width: 100%;
+    height: 100px;
+    /* border-radius: 10px; */
+    border: white;
+}
+.desc{
+    z-index: 1;
+    font-size: x-large;
+    position: relative;
+    top: 400px;
+    text-align: center;
+    color: antiquewhite;
+}
+.third{
+    background-color: white;
+    max-height: 50px;
+    max-width: 801px;
+    position: relative;
+    top: 470px;
+    left: 300px;
+    border-radius: 10px;
+    align-content: center;
+    z-index: 2;
+    border-bottom: outset;
+    border-color: rgb(102, 94, 94);
+    opacity: 70%;
+    /* box-shadow: inset; */
+}
+.but1{
+    /* cursor: pointer; */
+    cursor: pointer;
+    height: 50px;
+    width: 250px;
+    position: relative;
+    /* top: 5px; */
+    /* left: 500px; */
+    background:none;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: medium;
+    font-weight: 700;
+}
+.but2{
+    cursor: pointer;
+    height: 50px;
+    position: relative;
+    top: 0px;
+    left: 25px;
+    /* left */
+    width: 250px;
+    /* left: 600px; */
+    background:none;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: medium;
+    font-weight: 700;
+}
+.but3{
+    cursor: pointer;
+    height: 50px;
+    position: relative;
+    top: 0px;
+    position: absolute;
+    right: 0px;
+    width: 250px;
+    /* left: 600px; */
+    background:none;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: medium;
+    font-weight: 700;
+}
+.hotel{
+    background-repeat: no-repeat;
+    /* tab-size: 1px; */
+    max-height: 40px;
+}
+.four{
+    z-index: 1;
+    position: absolute;
+    top: 495px;
+    left: 165px;
+    height: fit-content;
+    width: 1100px;
+    opacity: 90%;
+    background-color: whitesmoke;
+    border-radius: 30px;
+    box-shadow: 100px;
+    border-bottom-color: black;
+}
+.hai{
+    height: 70px;
+    width: 800px;
+    position: relative;
+    top: -10px;
+    left: 80px;
+    background: none;
+    /* border:solid; */
+    border-width: 2px;
+    border-radius: 10px
+}
+.place{
+    height: 70px;
+    width: 500px;
+    position: relative;
+    top: 0px;
+    /* left: 5px; */
+    background-color: white;
+    border: none;
+    opacity: 80%;
+    border-radius: 10px;
+    border: none;
+}
+.sdate{
+    height: 80px;
+    position: relative;
+    top: 0px;
+    left: 80px;
+    background: white;
+    border: none;
+    border-width: 2px;
+    border-radius: 10px;
+    width: 200px;
+}
+.edate{
+    height: 80px;
+    width: 200px;
+    position: relative;
+    top: 0px;
+    left: 80px;
+    background: white;
+    border: none;
+    border-width: 2px;
+    border-radius: 10px;
+}
+.search{
+    height: 40px;
+    cursor: pointer;
+    /* position: relative;
+    top: 3px; */
+    /* right: 0px; */
+    /* background: none;
+    border: none; */
+}
+.member{
+    height: 50px;
+    background: white;
+    border: none;
+    border-radius: 10px;
+    border-width: 2px;
+    position: absolute;
+    right: 50px;
+}
+.sc{
+    color: white;
+    font-weight: 700;
+    font-stretch: ultra-expanded;
+    font-size: larger;
+    text-align: center;
+    font-family: Georgia;
+    height: 50px;
+    width: 500px;
+    cursor: pointer;
+    text-align: center;
+    position: absolute;
+    top: 765px;
+    left: 450px;
+    background-color: blue;
+    opacity: 65%;
+    border: none;
+    border-bottom: groove;
+    border-radius: 10px;
+    z-index: 2;
+}
+.sc:hover{
+    background: blue;
+    opacity: 50%;
+    color: white;
+}
+.aboutus{
+    background: none;
+    border: none;
+    position: absolute;
+    right: 30px;
+    top: 15px;
+}
